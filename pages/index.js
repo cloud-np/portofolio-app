@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Portofolio | cloud-np</title>
         <meta name="description" content="Portofolio site" />
         <link rel="icon" href="/cloud.png" />
       </Head>
